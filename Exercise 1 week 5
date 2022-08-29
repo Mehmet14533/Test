@@ -1,0 +1,13 @@
+package ReviewQuestions;
+
+public class ReviewQuestionsWeek5 {
+
+	public static void main(String[] args) {
+		
+		String firstName = "Mehmet";
+		
+		String lastName = "Sarioz";
+		
+		float birthday = 17/9/1997;
+		
+		String email = "mehmet.saroz@hotmail.com";
